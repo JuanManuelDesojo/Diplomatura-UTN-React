@@ -3,3 +3,8 @@
 2 vinos 
 3 cervezas
 1 vacio
+elementos de limpieza
+detergente 
+limpiador de pisos
+anti grasa para la cocina
+
